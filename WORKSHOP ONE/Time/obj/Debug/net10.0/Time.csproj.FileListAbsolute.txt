@@ -1,0 +1,12 @@
+C:\Project\WORKSHOP ONE\Time\bin\Debug\net10.0\Time.deps.json
+C:\Project\WORKSHOP ONE\Time\bin\Debug\net10.0\Time.dll
+C:\Project\WORKSHOP ONE\Time\bin\Debug\net10.0\Time.pdb
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.AssemblyInfoInputs.cache
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.AssemblyInfo.cs
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.csproj.CoreCompileInputs.cache
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.sourcelink.json
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.dll
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\refint\Time.dll
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\Time.pdb
+C:\Project\WORKSHOP ONE\Time\obj\Debug\net10.0\ref\Time.dll

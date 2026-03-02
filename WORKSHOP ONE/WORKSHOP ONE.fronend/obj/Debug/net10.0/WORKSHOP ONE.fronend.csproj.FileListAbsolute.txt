@@ -1,0 +1,19 @@
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\WORKSHOP ONE.fronend.exe
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\WORKSHOP ONE.fronend.deps.json
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\WORKSHOP ONE.fronend.runtimeconfig.json
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\WORKSHOP ONE.fronend.dll
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\WORKSHOP ONE.fronend.pdb
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\Time.dll
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\bin\Debug\net10.0\Time.pdb
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.csproj.AssemblyReference.cache
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.AssemblyInfoInputs.cache
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.AssemblyInfo.cs
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.csproj.CoreCompileInputs.cache
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.sourcelink.json
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP.B93B3F44.Up2Date
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.dll
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\refint\WORKSHOP ONE.fronend.dll
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.pdb
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\WORKSHOP ONE.fronend.genruntimeconfig.cache
+C:\Project\WORKSHOP ONE\WORKSHOP ONE.fronend\obj\Debug\net10.0\ref\WORKSHOP ONE.fronend.dll

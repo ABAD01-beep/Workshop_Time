@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WORKSHOP ONE.fronend/1.0.0": {
+        "dependencies": {
+          "Time": "1.0.0"
+        },
+        "runtime": {
+          "WORKSHOP ONE.fronend.dll": {}
+        }
+      },
+      "Time/1.0.0": {
+        "runtime": {
+          "Time.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WORKSHOP ONE.fronend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
